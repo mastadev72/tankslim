@@ -1,0 +1,8 @@
+{
+  "name": "tankslim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0b25b064"
+}
